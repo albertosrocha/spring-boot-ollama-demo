@@ -1,2 +1,4 @@
 # spring-boot-ollama-demo
-Live coding de integração do Spring Boot AI com Ollama para criar assistentes de IA personalizados usando modelos locais.
+Live coding com o objetivo de demonstrar uma integração simples entre o Spring Boot AI e o Ollama, 
+para criar assistentes de IA personalizados usando modelos locais.
+
